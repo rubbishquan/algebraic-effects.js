@@ -63,3 +63,5 @@ typings/
 #parcel-bundler generated files
 .cache
 dist
+
+.DS_Store
